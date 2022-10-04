@@ -1,0 +1,322 @@
+[
+  {
+    "address": "Kishoreganj",
+    "Latitude": 24.4331227,
+    "Longitude": 90.7865655
+  },
+  {
+    "address": "Gopalganj",
+    "Latitude": 26.4831584,
+    "Longitude": 84.43655
+  },
+  {
+    "address": "Gazipur",
+    "Latitude": 23.9999405,
+    "Longitude": 90.4202724
+  },
+  {
+    "address": "Faridpur",
+    "Latitude": 23.6018691,
+    "Longitude": 89.8333382
+  },
+  {
+    "address": "Dhaka",
+    "Latitude": 23.810332,
+    "Longitude": 90.4125181
+  },
+  {
+    "address": "Narsingdi",
+    "Latitude": 23.9192671,
+    "Longitude": 90.7176492
+  },
+  {
+    "address": "Narayanganj",
+    "Latitude": 23.6237764,
+    "Longitude": 90.5000404
+  },
+  {
+    "address": "Munshiganj",
+    "Latitude": 23.5421898,
+    "Longitude": 90.5305087
+  },
+  {
+    "address": "Manikganj",
+    "Latitude": 23.8644225,
+    "Longitude": 90.004663
+  },
+  {
+    "address": "Madaripur",
+    "Latitude": 23.1648826,
+    "Longitude": 90.1939932
+  },
+  {
+    "address": "Rajbari",
+    "Latitude": 23.7638997,
+    "Longitude": 89.646737
+  },
+  {
+    "address": "Shariatpur",
+    "Latitude": 23.2197029,
+    "Longitude": 90.3501258
+  },
+  {
+    "address": "Tangail",
+    "Latitude": 24.2513451,
+    "Longitude": 89.9167104
+  },
+  {
+    "address": "Cumilla",
+    "Latitude": 23.4606574,
+    "Longitude": 91.1809065
+  },
+  {
+    "address": "Chattogram",
+    "Latitude": 22.356851,
+    "Longitude": 91.7831819
+  },
+  {
+    "address": "Chandpur",
+    "Latitude": 23.2320991,
+    "Longitude": 90.663075
+  },
+  {
+    "address": "Brahmanbaria",
+    "Latitude": 23.9675393,
+    "Longitude": 91.1119148
+  },
+  {
+    "address": "Bandarban",
+    "Latitude": 22.1935628,
+    "Longitude": 92.2187476
+  },
+  {
+    "address": "Noakhali",
+    "Latitude": 22.8246384,
+    "Longitude": 91.1017334
+  },
+  {
+    "address": "Lakshmipur",
+    "Latitude": 22.9454033,
+    "Longitude": 90.8341624
+  },
+  {
+    "address": "Khagrachhari",
+    "Latitude": 23.1117407,
+    "Longitude": 91.9888247
+  },
+  {
+    "address": "Feni",
+    "Latitude": 22.9408784,
+    "Longitude": 91.4066646
+  },
+  {
+    "address": "Cox’s Bazar",
+    "Latitude": 21.4272283,
+    "Longitude": 92.0058074
+  },
+  {
+    "address": "Rangamati",
+    "Latitude": 22.6533198,
+    "Longitude": 92.1788581
+  },
+  {
+    "address": "Sylhet",
+    "Latitude": 24.8949294,
+    "Longitude": 91.8687063
+  },
+  {
+    "address": "Sunamganj",
+    "Latitude": 25.0666548,
+    "Longitude": 91.4072392
+  },
+  {
+    "address": "Moulvibazar",
+    "Latitude": 24.4842661,
+    "Longitude": 91.768487
+  },
+  {
+    "address": "Habiganj",
+    "Latitude": 24.3840055,
+    "Longitude": 91.4168974
+  },
+  {
+    "address": "Patuakhali",
+    "Latitude": 22.3586174,
+    "Longitude": 90.3317203
+  },
+  {
+    "address": "Jhalokati",
+    "Latitude": 22.6406006,
+    "Longitude": 90.1986798
+  },
+  {
+    "address": "Bhola",
+    "Latitude": 22.6854694,
+    "Longitude": 90.6439027
+  },
+  {
+    "address": "Barishal",
+    "Latitude": 22.7010021,
+    "Longitude": 90.3534511
+  },
+  {
+    "address": "Barguna",
+    "Latitude": 22.1605051,
+    "Longitude": 90.1200636
+  },
+  {
+    "address": "Pirojpur",
+    "Latitude": 22.5841051,
+    "Longitude": 89.9720133
+  },
+  {
+    "address": "Khulna",
+    "Latitude": 22.845641,
+    "Longitude": 89.5403279
+  },
+  {
+    "address": "Jhenaidah",
+    "Latitude": 23.5528198,
+    "Longitude": 89.1753614
+  },
+  {
+    "address": "Jashore",
+    "Latitude": 23.1634014,
+    "Longitude": 89.2181664
+  },
+  {
+    "address": "Chuadanga",
+    "Latitude": 23.6417895,
+    "Longitude": 88.8577016
+  },
+  {
+    "address": "Bagerhat",
+    "Latitude": 22.6554516,
+    "Longitude": 89.7661527
+  },
+  {
+    "address": "Satkhira",
+    "Latitude": 22.7184852,
+    "Longitude": 89.0704766
+  },
+  {
+    "address": "Narail",
+    "Latitude": 23.1656982,
+    "Longitude": 89.4990219
+  },
+  {
+    "address": "Meherpur",
+    "Latitude": 23.7721263,
+    "Longitude": 88.631372
+  },
+  {
+    "address": "Magura",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "address": "Kushtia",
+    "Latitude": 23.9087767,
+    "Longitude": 89.1219822
+  },
+  {
+    "address": "Chapainawabganj",
+    "Latitude": 24.5797195,
+    "Longitude": 88.2704497
+  },
+  {
+    "address": "Natore",
+    "Latitude": 24.4079394,
+    "Longitude": 88.9748932
+  },
+  {
+    "address": "Joypurhat",
+    "Latitude": 25.0967735,
+    "Longitude": 89.0227126
+  },
+  {
+    "address": "Naogaon",
+    "Latitude": 24.7936071,
+    "Longitude": 88.9318082
+  },
+  {
+    "address": "Bogura",
+    "Latitude": 24.848078,
+    "Longitude": 89.3729633
+  },
+  {
+    "address": "Sirajganj",
+    "Latitude": 24.4526459,
+    "Longitude": 89.6816208
+  },
+  {
+    "address": "Rajshahi",
+    "Latitude": 24.3745146,
+    "Longitude": 88.604166
+  },
+  {
+    "address": "Pabna",
+    "Latitude": 24.0128563,
+    "Longitude": 89.2590572
+  },
+  {
+    "address": "Dinajpur",
+    "Latitude": 25.6221009,
+    "Longitude": 88.6437649
+  },
+  {
+    "address": "Gaibandha",
+    "Latitude": 25.328978,
+    "Longitude": 89.5415074
+  },
+  {
+    "address": "Rangpur",
+    "Latitude": 25.7438916,
+    "Longitude": 89.275227
+  },
+  {
+    "address": "Panchagarh",
+    "Latitude": 26.335376,
+    "Longitude": 88.551698
+  },
+  {
+    "address": "Nilphamari",
+    "Latitude": 25.9362732,
+    "Longitude": 88.8407037
+  },
+  {
+    "address": "Lalmonirhat",
+    "Latitude": 25.916198,
+    "Longitude": 89.4505802
+  },
+  {
+    "address": "Kurigram",
+    "Latitude": 25.810346,
+    "Longitude": 89.6486979
+  },
+  {
+    "address": "Thakurgaon",
+    "Latitude": 26.0273645,
+    "Longitude": 88.4646107
+  },
+  {
+    "address": "Sherpur",
+    "Latitude": 25.0194045,
+    "Longitude": 90.0137328
+  },
+  {
+    "address": "Netrokona",
+    "Latitude": 24.8816911,
+    "Longitude": 90.7271479
+  },
+  {
+    "address": "Mymensingh",
+    "Latitude": 24.7471492,
+    "Longitude": 90.4202734
+  },
+  {
+    "address": "Jamalpur",
+    "Latitude": 24.9249785,
+    "Longitude": 89.9463408
+  }
+ ]
