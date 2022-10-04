@@ -1,9 +1,17 @@
-# Vue 3 + Vite
+# Implement Graph
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Libray used: ChartJS
 
-## Recommended IDE Setup
+---
+## Chart used so far:
+- Line chart
+- Pie chart
+- Doughnut chart
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
-# chart-with-vue
-# map-graph
+---
+### Line Chart
+
+This chart shows three types of data paid amount, due amount, and total cost. There is two line chart one is shown data monthly and another one is shown yearly. If you choose yearly then you will be able to select all of the years your data is available.
+
+### Pie chart & Doughnut Chart
+Both charts show paid amount and due amount yearly percentage.
