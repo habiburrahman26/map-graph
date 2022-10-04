@@ -1,6 +1,6 @@
 # Implement Graph
 
-## Libray used: ChartJS
+## Library used: ChartJS
 
 ---
 ## Chart used so far:
